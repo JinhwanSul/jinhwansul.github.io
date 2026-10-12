@@ -1,0 +1,20 @@
+{
+  "sha256": "cc5a30d9fa1e21856f0833f4fa689c5329a8773c613cd8d12a446576e90b7b9f",
+  "pages": [
+    {
+      "file": "cv-page-1.png",
+      "width": 1273,
+      "height": 1800
+    },
+    {
+      "file": "cv-page-2.png",
+      "width": 1273,
+      "height": 1800
+    },
+    {
+      "file": "cv-page-3.png",
+      "width": 1273,
+      "height": 1800
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jinhwansul.github.io/sitemap.xml
